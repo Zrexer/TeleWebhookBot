@@ -1,7 +1,7 @@
 # python3
 
 token: str = ""
-ads = [ '' ]
+ads = [ '' , '', '' ]
 
 import telebot 
 import json
